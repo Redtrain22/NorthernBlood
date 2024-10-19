@@ -90,7 +90,7 @@ hash = "558417ea55258432623b65465dc29f3269c43777659adcec4da951894b49f786"
 
 [[files]]
 file = "config/primalwinter.toml"
-hash = "7592d559c00482f20ecc80e7040ee683d23df1c1df119a4ad946a8b06d9ba2e9"
+hash = "552963a623a315287cfb4e765ba25b57b63da2756b1efd94eb3d8665b065985d"
 
 [[files]]
 file = "config/proximitytextchat-common.toml"
@@ -201,14 +201,6 @@ file = "config/xaeroworldmap.txt"
 hash = "f4eedc43b8d608a81bf88cef048b05cdeb5204f7863564b736a5a484cf5d622f"
 
 [[files]]
-file = "mods/AmbientSounds_FORGE_v5.3.9_mc1.19.2.jar"
-hash = "0b928f5494fae426e18f33d81d6bff929eaaf75a209b32eb281c7c050fdf7fb7"
-
-[[files]]
-file = "mods/Paranoia-Forge-1.19.2.jar"
-hash = "e63d2831073930c02e780859b6662b04acbdc37c67ae9ea39ecfdf99a616828c"
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "04e22683a902fe2b00370332af21f343a64ed62e7b63837cae729825a1573f81"
 metafile = true
@@ -284,10 +276,6 @@ hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
-hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
@@ -296,10 +284,6 @@ metafile = true
 file = "mods/modernfix.pw.toml"
 hash = "d5ebd6a072c380a9872729df7c48021f5f187329f51afbfcee43e952c49f6d08"
 metafile = true
-
-[[files]]
-file = "mods/no-more-grass-and-kelp-1.0.1.jar"
-hash = "02eee5ab44a06a4250df854f9684d424f16962bc69d7b983310e072593d2584f"
 
 [[files]]
 file = "mods/no-more-grass-and-kelp.pw.toml"
@@ -357,10 +341,6 @@ hash = "5c87f10b39dddb83d98bd59b6ee7368d483c5a10b61d2f1ec834cc5a13d03e25"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered-forge-1.19.2-1.4.5.jar"
-hash = "fe397d0d03065debbc6d24f01b8827ca61751a1239e04c793059e39432fd4568"
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "d5776199f804027b8afb5204444118fed8895a6941385e5279dee5b578aa3e89"
 metafile = true
@@ -384,10 +364,6 @@ metafile = true
 file = "mods/tschipcrafts-dynamic-lights-mod.pw.toml"
 hash = "6f7a33b800e6f214d4971f9c0fffb28a908826af829c552b8e4e6eb8687828bc"
 metafile = true
-
-[[files]]
-file = "mods/voicechat-forge-1.19.2-2.5.24.jar"
-hash = "73b37126e9535f6f083ae5f65723fcb5b64a6ed89b8aec4e6adf9c7c0f637509"
 
 [[files]]
 file = "mods/waterdripsound.pw.toml"
