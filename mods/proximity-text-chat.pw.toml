@@ -1,13 +1,13 @@
 name = "Proximity Text Chat"
 filename = "ProximityTextChat-1.19.3-1.0.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "f8ba65b15a0a2de9a04cedb10f818edeb0ac9841"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KYqJsEV7/versions/kPJQa58l/ProximityTextChat-1.19.3-1.0.jar"
+hash-format = "sha512"
+hash = "4d88b09dc02a0a31f7f3cda1e99bbe4d6888fa8e3332d0d4fd2b7cc5c9b4695e470edabfe1d90a7d3a59f38d40893e9e94806500c868ffc2de6e1039016ffdbf"
 
 [update]
-[update.curseforge]
-file-id = 4238904
-project-id = 716287
+[update.modrinth]
+mod-id = "KYqJsEV7"
+version = "kPJQa58l"

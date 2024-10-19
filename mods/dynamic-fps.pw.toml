@@ -1,13 +1,13 @@
 name = "Dynamic FPS"
 filename = "dynamic-fps-3.7.3+minecraft-1.19.0-forge.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f9f52d781507496e1a5b2deea610dca1d3fe17c9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pRLvr20S/dynamic-fps-3.7.3%2Bminecraft-1.19.0-forge.jar"
+hash-format = "sha512"
+hash = "7c1037748ebef972f2f62456038f6cca6bf63cc653c5fab2177a881a3fc0202d489ed420e6cf53b5f3952fbb29329ec2485be047b0fbb0ad32fac760b07dc13a"
 
 [update]
-[update.curseforge]
-file-id = 5743129
-project-id = 335493
+[update.modrinth]
+mod-id = "LQ3K71Q1"
+version = "pRLvr20S"

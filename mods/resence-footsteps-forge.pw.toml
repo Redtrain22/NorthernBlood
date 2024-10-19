@@ -1,0 +1,13 @@
+name = "Presence Footsteps [Forge]"
+filename = "PresenceFootsteps-1.19.2-1.6.4.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IIjfBeV8/versions/pYjQnyOS/PresenceFootsteps-1.19.2-1.6.4.1-forge.jar"
+hash-format = "sha512"
+hash = "cd395cac3993e0bfb7447621adb19d6988a65c45e60f2c7912edae2463b0f4f4acdbaedbd12c1bf967fb53dc3c8f3eefcc69e5a0d7b1897c7027317c38b4fe1a"
+
+[update]
+[update.modrinth]
+mod-id = "IIjfBeV8"
+version = "pYjQnyOS"

@@ -3,11 +3,11 @@ filename = "PlayerRevive_FORGE_v2.0.17_mc1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d047e857d8b0799f8b54056c6fd20be89ee5b4af"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ABIMzABM/versions/toPTsfcD/PlayerRevive_FORGE_v2.0.17_mc1.19.2.jar"
+hash-format = "sha512"
+hash = "773baa28346642032eceb2d26de31184216aeb611694d185af41659fe771ec129d0cb26daa43c4d730da5e7281c11eb7fc78b85af7ec25d19a755412007b79cf"
 
 [update]
-[update.curseforge]
-file-id = 5491953
-project-id = 266890
+[update.modrinth]
+mod-id = "ABIMzABM"
+version = "toPTsfcD"

@@ -1,13 +1,13 @@
 name = "FootprintParticle"
 filename = "footprintparticle-0.5.1-mc1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a536cb80f503d1e27b0eaa85e852e5b80919353b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/xZQOoOaY/versions/HBtclYF2/footprintparticle-0.5.1-mc1.19.2.jar"
+hash-format = "sha512"
+hash = "a2a35cb365360444313a72ccb7843f48bdf0b516e337aa50708b858442bab6eb5173ee08c6a5d9fb2181367c70f8335fe23a2ce998e587176f44b152114f88d6"
 
 [update]
-[update.curseforge]
-file-id = 4962988
-project-id = 832070
+[update.modrinth]
+mod-id = "xZQOoOaY"
+version = "HBtclYF2"

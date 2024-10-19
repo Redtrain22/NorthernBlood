@@ -3,11 +3,11 @@ filename = "primalwinter-forge-1.19.2-4.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8808669f9bb75ba3a3f9d43cf2f6e748d1288715"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BOwymOaY/versions/SdrsAZON/primalwinter-forge-1.19.2-4.0.1.jar"
+hash-format = "sha512"
+hash = "aab146163c02aa65690df1603a1f6381873fd66948f61453a1d600bde880bb66483cc002cf8e2895440d96f7a5efecb612624921aeeae8fe8f3ba75ea7260f7b"
 
 [update]
-[update.curseforge]
-file-id = 4499145
-project-id = 393321
+[update.modrinth]
+mod-id = "BOwymOaY"
+version = "SdrsAZON"

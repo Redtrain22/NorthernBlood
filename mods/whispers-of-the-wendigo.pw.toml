@@ -1,13 +1,13 @@
 name = "Whispers of the Wendigo"
 filename = "Whispers_of_the_Wendigo_0.1.1_1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "6700fd695afc362dd41f8039e113e6aa0e89b16e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QQHfjcrs/versions/Z83Cei9F/Whispers_of_the_Wendigo_0.1.1_1.19.2.jar"
+hash-format = "sha512"
+hash = "2bab17b899a751de20a87953c2c7e5448eec6211b54fa13c1b5430225be3429244331c04b9d5b84228c7c63cd7d1c672d4954a6485b22ead4a53dff1f3b09c87"
 
 [update]
-[update.curseforge]
-file-id = 5037099
-project-id = 958730
+[update.modrinth]
+mod-id = "QQHfjcrs"
+version = "Z83Cei9F"
