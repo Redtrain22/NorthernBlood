@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "3d2680eb0bc9cb0ffd6fae789c1b7cc4dcaf54791439942be9146420d4282213"
+hash = "1c3bbc4ee11c8dce8c80a6622cf16e2decb1f46221fe27a61876169111fb823a"
 metafile = true
 
 [[files]]
