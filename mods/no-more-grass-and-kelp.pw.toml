@@ -1,0 +1,13 @@
+name = "No More Grass and Kelp"
+filename = "no-more-grass-and-kelp-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wNR8aakJ/versions/4zrpLzWL/no-more-grass-and-kelp-1.0.1.jar"
+hash-format = "sha512"
+hash = "260312a043d9c7f70e86b13ecfc2ed9179436d60c4ce07633779ea88cd9ada302fbc475d860d3207c6ddf9693777849e9cb62c09a4dfbbd63219d2098fb9c808"
+
+[update]
+[update.modrinth]
+mod-id = "wNR8aakJ"
+version = "4zrpLzWL"

@@ -1,0 +1,12 @@
+name = "Northern Blood"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "994d1336377cb032d819adafddb60022ed1792e904e2ec02527e3225fa5d32d4"
+
+[versions]
+forge = "43.4.4"
+minecraft = "1.19.2"

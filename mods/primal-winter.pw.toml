@@ -1,0 +1,13 @@
+name = "Primal Winter"
+filename = "primalwinter-forge-1.19.2-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8808669f9bb75ba3a3f9d43cf2f6e748d1288715"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4499145
+project-id = 393321

@@ -1,0 +1,415 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "8f9971df3b8c66cc31712959a6f6e0055e5df4596ecd2df5d7401fc3c1f153c7"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/chunky/tasks/minecraft/overworld.properties"
+hash = "27ad65904ea99fd564c37fe6658bed6c1069e794fac2e52882744ec70c2e304d"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "6a84d3bfbd14f43e058b9c839d4151cc3ee8ea29f1b53356875bcb167e018ffe"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "config/fallingleaves-client.toml"
+hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "fab938297f4226f9e13a5164ffdb94ae1e0e572d1fab3d5d13e4cfaa0a44f628"
+
+[[files]]
+file = "config/fml.toml"
+hash = "eb5434c7520284945763f461841e91da86895a70324e13218a07824f81e5ec87"
+
+[[files]]
+file = "config/footprintparticle.json"
+hash = "d5df59bfbacd04d29996c1d1603f09ad6b21ada6c884f8135b4ffd84068fe3a6"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "534d9fc367bb58ded17ad2820df913dee00eb6e64ef9270c3a8e491db585f548"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "a440d2a7ce939ef3c462475555a9a188263aebdbf13db600de3f01d9d312970c"
+
+[[files]]
+file = "config/forge-resource-caching.toml"
+hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "24e30e4bc37f445b1af5a52dc0c70830f2559abaa5b840721062ce6bb852b8ae"
+
+[[files]]
+file = "config/kiwi-client.toml"
+hash = "c066ceb70bfd23d921a72caef66d4fc7a53f001a69bd136f639ad652dcc927da"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "d6de523b8275705b17373daf57661acaf259beb16ce1276c436aef6af7304001"
+
+[[files]]
+file = "config/passablefoliage-common.toml"
+hash = "b74ab64d3b62167b1fa0f49202365e1c8048ffae5ff35f48c47fffbaffa279c5"
+
+[[files]]
+file = "config/playerrevive-client.json"
+hash = "66afd32595b00de5d2837780a5866d600e296d9200a4e4fb1b6a2ef94693c909"
+
+[[files]]
+file = "config/playerrevive.json"
+hash = "adf96243e604e285c8d3ca1ea8803d1f1932c6bbc579fa78b516563911591304"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "558417ea55258432623b65465dc29f3269c43777659adcec4da951894b49f786"
+
+[[files]]
+file = "config/primalwinter.toml"
+hash = "7592d559c00482f20ecc80e7040ee683d23df1c1df119a4ad946a8b06d9ba2e9"
+
+[[files]]
+file = "config/proximitytextchat-common.toml"
+hash = "db6391a9f248b848e7343e2c78dbe2a4d80e34927f943b6675636277c9abe623"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
+
+[[files]]
+file = "config/snowrealmagic-client.toml"
+hash = "8847b2cc97e3f7eac4ec59333ac2e7a24cb70d081e5f53cf7ba06a41e37db96c"
+
+[[files]]
+file = "config/snowrealmagic-common.toml"
+hash = "5fc496d6fdc69802485332b82d026cdc0577aad607d526b145eaf43a5d8d8fe7"
+
+[[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+hash = "13be6a608cd052f7234e4f6d9314470f12402f0cc9745b43566b01139614fe5b"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "1879dc707f662815e6e21d23d48063f246facab335c9af8607aa22baa9777c72"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "93a387177a9cd369a47c81c49b75a32927443f3e0fc640681505d6284a10de3c"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "c9e79968413b6d27a548872869c347d8006b29878cb05210c9b24b4be5efe45a"
+
+[[files]]
+file = "config/sparsetructuresreforged.json"
+hash = "0a7f65e35878e59db7b2e8569fe4747315f103e2f884e9c62d7c5265750d4f6a"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "99fd3a93f9b4c81e9fd4243d2c932f4bca2cf9bb9d3f9dce8dd22c8b1d8f4a6d"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "290736900dec74d04690b93efacf68f3f797f716401175b8c1d072d73dc89e41"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "ea44be71712cbad585fe349268e7f5dfb3aa123ef189acc74437547ef20fa5c6"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
+
+[[files]]
+file = "config/voicechat-client.toml"
+hash = "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "40c0cd47a8a3e986d70d78d16c5967a66a8196fcd029f3d10588893f65b5f965"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "bb801fedcd34d6bcf102fc9ec9c848de5708f786c84b2348fe79b39e02bbd516"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "11ffb5d9d6484abb0c7229076a20e88ba520a1763730ecbc677872bc637a8668"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
+
+[[files]]
+file = "config/waterdripsound-client.toml"
+hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
+
+[[files]]
+file = "config/weaponmaster_ydm-common.toml"
+hash = "8decc3a11a8b12d6379871ae098ee2e1bb48522d1690396003d5cb6af7a7d8f3"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "c4e80dcc2c0b02a908f05f95128818412e762134b8490462908dd1dc6b7d4745"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "f4eedc43b8d608a81bf88cef048b05cdeb5204f7863564b736a5a484cf5d622f"
+
+[[files]]
+file = "mods/AmbientSounds_FORGE_v5.3.9_mc1.19.2.jar"
+hash = "0b928f5494fae426e18f33d81d6bff929eaaf75a209b32eb281c7c050fdf7fb7"
+
+[[files]]
+file = "mods/Paranoia-Forge-1.19.2.jar"
+hash = "e63d2831073930c02e780859b6662b04acbdc37c67ae9ea39ecfdf99a616828c"
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "04e22683a902fe2b00370332af21f343a64ed62e7b63837cae729825a1573f81"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "3bea0442d74ad9116aa556afd0b84b54ecfd9504af3dabd914c829728082a34c"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "f7b375699fba3e85f38ec4c0c5d6bf19b5004677857ca2e9dad3c6732b2cc1c8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "728c1843aea1060f3a0566000d6a6c50f86e8194f871505752743058bee4c29a"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "ee0b65508d15ba388dac04094807949079ee659808fc363c7b291b8c9c482663"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "2ff7e805470c95fefba92a50dd97089eb733957beaea3d0d7a7f3d2c5149f05e"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "aac9d498124912bb65ca3d564732118072bb27fec5fbbfa5ea1884cd5a8f6de2"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "2e10cbcb9efb978e79cd53cfbd2a1f9901d7db1dfbdc80bf575005fdadf82a94"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
+metafile = true
+
+[[files]]
+file = "mods/footprintparticle.pw.toml"
+hash = "b90083d8b747b3a58d03b5d52352025ddfefe00fce6b82e1f29b52aaf39a42ed"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "595b09b28e86fa338e50020e1ea1633b2c904da857fe81ac2ee3eeafad7a2601"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "6517474abbb8d3e86845c4f26998042c08b21267b26b3b6b622716187762c6a4"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
+hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "d5ebd6a072c380a9872729df7c48021f5f187329f51afbfcee43e952c49f6d08"
+metafile = true
+
+[[files]]
+file = "mods/no-more-grass-and-kelp-1.0.1.jar"
+hash = "02eee5ab44a06a4250df854f9684d424f16962bc69d7b983310e072593d2584f"
+
+[[files]]
+file = "mods/no-more-grass-and-kelp.pw.toml"
+hash = "af7e649cad5ab8ceeca6b7ebd3856d411dfeb024824f364a239ec59bd427ae7e"
+metafile = true
+
+[[files]]
+file = "mods/paranoia.pw.toml"
+hash = "c3e6a7668423d8f89e5d2a524752c44141ffbd0e864a62d3baca628c836bdd06"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "d306e321cbdfe9567f45e74f2f530c57ce046916ee3b16342ea9e2dd5e6acda8"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "86880fe49286dc3e562ac9d67c12478e99892c4c927e45554dae66c62713fe39"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "7f12b6d9fb0eee82b906c2e60d61b65007ff50be417ed4eda41194f0c3c8a592"
+metafile = true
+
+[[files]]
+file = "mods/primal-winter.pw.toml"
+hash = "a1331f948d2a1f9571d45555f91e8c3d2cf181b7c27ea42766de4adbe5951cff"
+metafile = true
+
+[[files]]
+file = "mods/proximity-text-chat.pw.toml"
+hash = "f1f55d6eb2837a068149bd3507871560c6ef1d9621a559be5d67199274ebe64b"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "aa9411c69f0a0f561ff0901fc6dc315db8dcd5012902241e6fc37fa02d1d9143"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ba4d316de70b8a109b7efd0fa705446b33ec0e188948c8c78f641a96daeca731"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "0d5eee5e4c3e671824c66afbdd3556c047eef026330a3103705a398ebacfdc9f"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "5c87f10b39dddb83d98bd59b6ee7368d483c5a10b61d2f1ec834cc5a13d03e25"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered-forge-1.19.2-1.4.5.jar"
+hash = "fe397d0d03065debbc6d24f01b8827ca61751a1239e04c793059e39432fd4568"
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "d5776199f804027b8afb5204444118fed8895a6941385e5279dee5b578aa3e89"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "c8fe1aa2391ea5a0ed155de631d6cf9b46c90b2a2541a4afb3497a3285d537d7"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f7ec8c97caf2d8a7aa1e6ac9d2578101b829802d49aed5cb2fc82a2d744d603a"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
+metafile = true
+
+[[files]]
+file = "mods/tschipcrafts-dynamic-lights-mod.pw.toml"
+hash = "6f7a33b800e6f214d4971f9c0fffb28a908826af829c552b8e4e6eb8687828bc"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-forge-1.19.2-2.5.24.jar"
+hash = "73b37126e9535f6f083ae5f65723fcb5b64a6ed89b8aec4e6adf9c7c0f637509"
+
+[[files]]
+file = "mods/waterdripsound.pw.toml"
+hash = "5e7bceb15b7dbea25c7fdbd93eacbc6b234a3c20c865fa6dd85556702448ee01"
+metafile = true
+
+[[files]]
+file = "mods/whispers-of-the-wendigo.pw.toml"
+hash = "176e1230d13e26d02d62bf3f6378dcfc55557987e16ca365fa1cd82c61453861"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6cf50d4c3ba88f0190c971943a3a1eda02a9d6aca812cb61026d8bbffd98ebfd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c69ece121283b6c725244bacb035cf7deb5365499ce009227ab159e50f2d5cd2"
+metafile = true
+
+[[files]]
+file = "mods/ydms-weapon-master.pw.toml"
+hash = "2d2ab79e04bf1d638681051e601a4de2aeaabaa50d04c0eef74bb35270995b44"
+metafile = true
