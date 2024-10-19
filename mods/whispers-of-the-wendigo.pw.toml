@@ -1,6 +1,6 @@
 name = "Whispers of the Wendigo"
 filename = "Whispers_of_the_Wendigo_0.1.1_1.19.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QQHfjcrs/versions/Z83Cei9F/Whispers_of_the_Wendigo_0.1.1_1.19.2.jar"
