@@ -1,0 +1,13 @@
+name = "Dont Drop Your Compass"
+filename = "dont_drop_your_compass-1.19.2-1.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xzeX4hke/versions/SedgOKHL/dont_drop_your_compass-1.19.2-1.0-forge.jar"
+hash-format = "sha512"
+hash = "e9ce1f74cecfd5c73a74c5c8d21dd5c0dc7453b091a83e4b8c23aac126ff498ae23a70b9a61ede4a53fa686c73c4d1e73ea40d627b37e3acd6415f84c07072f3"
+
+[update]
+[update.modrinth]
+mod-id = "xzeX4hke"
+version = "SedgOKHL"

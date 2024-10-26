@@ -226,8 +226,18 @@ hash = "0ecfcb55c6a7506a0262a9e3f620cdd19bf7cd3429623bc98fe65aa31d9f37e0"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "836891cca591ab126cfc2e0c023aa5ecab7ee808639fbcc9d0ee41dcc60849cd"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ee0b65508d15ba388dac04094807949079ee659808fc363c7b291b8c9c482663"
+metafile = true
+
+[[files]]
+file = "mods/ddyc.pw.toml"
+hash = "db80ecc3ca99bb496255af324ef8e77756f60d7123fc215091352145a77671ab"
 metafile = true
 
 [[files]]
@@ -343,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/resence-footsteps-forge.pw.toml"
 hash = "eac422b84fd5a1ddcc64c4f582405929916fe419767883364663c29cf9bfee3a"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "9968e6b984c4cdfb3af1a90489c2f615207b414afdca5fb401aa2f50017e0a4c"
 metafile = true
 
 [[files]]
