@@ -65,6 +65,10 @@ file = "config/kiwi-client.toml"
 hash = "c066ceb70bfd23d921a72caef66d4fc7a53f001a69bd136f639ad652dcc927da"
 
 [[files]]
+file = "config/lootr-common.toml"
+hash = "63feb162396c0389fd15294c505e64393fa72837ce095657f0824dae552b67ce"
+
+[[files]]
 file = "config/modernfix-common.toml"
 hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
@@ -90,11 +94,11 @@ hash = "558417ea55258432623b65465dc29f3269c43777659adcec4da951894b49f786"
 
 [[files]]
 file = "config/primalwinter.toml"
-hash = "552963a623a315287cfb4e765ba25b57b63da2756b1efd94eb3d8665b065985d"
+hash = "68e55fdaf3d260da8fce84b4033976cc0e95647c75199235a0707236b4f482ef"
 
 [[files]]
 file = "config/proximitytextchat-common.toml"
-hash = "db6391a9f248b848e7343e2c78dbe2a4d80e34927f943b6675636277c9abe623"
+hash = "5e2e6e0e8a043dc46a605d482ee2dc9a24a411cb488a7a7eacbf06a3e0bdbadd"
 
 [[files]]
 file = "config/skinlayers.json"
