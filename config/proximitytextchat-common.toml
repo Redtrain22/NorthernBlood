@@ -3,7 +3,7 @@
 	#How close you have to be to see other's messages
 	Range = 50
 	#Toggles distortion mode
-	"Distortion Mode Toggle" = false
+	"Distortion Mode Toggle" = true
 	#How close you have to be to see other's messages missing some words
 	"Distortion Range" = 70
 	#Word that missing words are replaced with in distortion mode
