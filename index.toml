@@ -77,6 +77,16 @@ file = "config/modernfix-mixins.properties"
 hash = "d6de523b8275705b17373daf57661acaf259beb16ce1276c436aef6af7304001"
 
 [[files]]
+file = "config/openloader/data/winterbunkers.pw.toml"
+hash = "bc07a307a9245c86dd2013af416da1cafc22a9b84f53e10bf37204b94fe7f3e1"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/invisible-item-frames.pw.toml"
+hash = "1ef80400172d1f80cbfb81a6546413f11fc370e2282e72bca91a4dae7c3a3bbb"
+metafile = true
+
+[[files]]
 file = "config/passablefoliage-common.toml"
 hash = "b74ab64d3b62167b1fa0f49202365e1c8048ffae5ff35f48c47fffbaffa279c5"
 
@@ -327,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/no-more-grass-and-kelp.pw.toml"
 hash = "af7e649cad5ab8ceeca6b7ebd3856d411dfeb024824f364a239ec59bd427ae7e"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "5921f70729fc8055f4d992ea926c729f0adbea6e4593404e7594b5936c8d3418"
 metafile = true
 
 [[files]]

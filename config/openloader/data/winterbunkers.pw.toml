@@ -1,0 +1,7 @@
+name = "WinterBunkers"
+filename = "WinterBunkers.zip"
+
+[download]
+url = "https://media.redtrain.me/uploads/WinterBunkers/WinterBunkers.zip"
+hash-format = "sha256"
+hash = "1b1a61678877a755b9bf676d18c79d765503c673ae90f4b7dc2da9bd44be637a"
