@@ -78,7 +78,7 @@ hash = "d6de523b8275705b17373daf57661acaf259beb16ce1276c436aef6af7304001"
 
 [[files]]
 file = "config/openloader/data/winterbunkers.pw.toml"
-hash = "14b7f435ef467f47b35498d4d0c582b39893e99e2d1234d85bb1895ff4845a1e"
+hash = "357a649eb73ce577d3943c33baa0dc048c8eab7e58d006d8df2fd85a201ba1c2"
 metafile = true
 
 [[files]]
