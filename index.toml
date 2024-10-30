@@ -435,16 +435,6 @@ hash = "197c8c90dfbaaaea8994f35154a3e423db643481cd68dad5056890bd1fb30da1"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "ac7cb4faa11be6f073fb0a34942bfd3b5e2135a541bbbd7f501dbc9cc72068df"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "47326fd896cd8f9402eeecc19ff32a1b87f5662144b29ffc3cbc4a67596240df"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
 metafile = true
